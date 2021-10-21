@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Xassee.Training.CRM.Db", "Xassee.Training.CRM.Db.sqlproj", "{2C37E3AA-BDC2-4500-AF52-E6796C8E3588}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Xassee.Training.CRM.Db", "sqlserver-db.sqlproj", "{2C37E3AA-BDC2-4500-AF52-E6796C8E3588}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
